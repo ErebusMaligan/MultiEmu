@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ROOT>
+  <SYSTEMS>
+    <SYSTEM>
+      <DEVELOPER>Microsoft</DEVELOPER>
+      <ARGS>NULL</ARGS>
+      <LAUNCHERPATH>NULL</LAUNCHERPATH>
+      <DESCRIPTION>The Xbox One was announced on May 21, 2013, and it is the successor to the Xbox 360 and the third console in the Xbox family of consoles. Moving away from the PowerPC based architecture used in the Xbox 360, the console features an AMD processor built around the x86-64 instruction set. The console places an increasing emphasis on entertainment and integration with the Kinect peripheral, offering the ability to use an existing set-top box to watch live television programming (augmented by an enhanced program guide with support for voice commands), a built-in Skype client, and improved second screen support. The console also provides new functionality for use in games, such as an expanded Xbox Live service, improved Kinect functionality, cloud computing, the ability to automatically record and share video highlights from gameplay, and integrated support for live streaming gameplay online.</DESCRIPTION>
+      <ROMPATH>NULL</ROMPATH>
+      <FANPATH>D:\Archived\JavaLuna\MultiEmu\.\resources\images\systems\Microsoft Xbox One.jpg</FANPATH>
+      <AKA>NULL</AKA>
+      <RELEASE>NULL</RELEASE>
+      <THUMBPATH>NULL</THUMBPATH>
+      <NAME>Microsoft Xbox One</NAME>
+      <REMOTE_ID>4920</REMOTE_ID>
+    </SYSTEM>
+    <SYSTEM>
+      <DEVELOPER>Nintendo</DEVELOPER>
+      <ARGS>NULL</ARGS>
+      <LAUNCHERPATH>NULL</LAUNCHERPATH>
+      <DESCRIPTION>The Nintendo Entertainment System (also abbreviated as NES or simply called Nintendo) is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics. As the best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983, and set the standard for subsequent consoles of its generation. With the NES, Nintendo introduced a now-standard business model of licensing third-party developers, authorizing them to produce and distribute software for Nintendo's platform.</DESCRIPTION>
+      <ROMPATH>NULL</ROMPATH>
+      <FANPATH>D:\Archived\JavaLuna\MultiEmu\.\resources\images\systems\Nintendo Entertainment System (NES).jpg</FANPATH>
+      <AKA>NULL</AKA>
+      <RELEASE>NULL</RELEASE>
+      <THUMBPATH>NULL</THUMBPATH>
+      <NAME>Nintendo Entertainment System (NES)</NAME>
+      <REMOTE_ID>7</REMOTE_ID>
+    </SYSTEM>
+    <SYSTEM>
+      <DEVELOPER>Nintendo</DEVELOPER>
+      <ARGS>NULL</ARGS>
+      <LAUNCHERPATH>NULL</LAUNCHERPATH>
+      <DESCRIPTION>The Nintendo Entertainment System (also abbreviated as NES or simply called Nintendo) is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics. As the best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983, and set the standard for subsequent consoles of its generation. With the NES, Nintendo introduced a now-standard business model of licensing third-party developers, authorizing them to produce and distribute software for Nintendo's platform.</DESCRIPTION>
+      <ROMPATH>NULL</ROMPATH>
+      <FANPATH>D:\Archived\JavaLuna\MultiEmu\.\resources\images\systems\Nintendo Entertainment System (NES).jpg</FANPATH>
+      <AKA>NULL</AKA>
+      <RELEASE>NULL</RELEASE>
+      <THUMBPATH>NULL</THUMBPATH>
+      <NAME>Nintendo Entertainment System (NES)</NAME>
+      <REMOTE_ID>7</REMOTE_ID>
+    </SYSTEM>
+    <SYSTEM>
+      <DEVELOPER>Nintendo</DEVELOPER>
+      <ARGS>NULL</ARGS>
+      <LAUNCHERPATH>NULL</LAUNCHERPATH>
+      <DESCRIPTION>The Nintendo Entertainment System (also abbreviated as NES or simply called Nintendo) is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics. As the best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983, and set the standard for subsequent consoles of its generation. With the NES, Nintendo introduced a now-standard business model of licensing third-party developers, authorizing them to produce and distribute software for Nintendo's platform.</DESCRIPTION>
+      <ROMPATH>NULL</ROMPATH>
+      <FANPATH>D:\Archived\JavaLuna\MultiEmu\.\resources\images\systems\Nintendo Entertainment System (NES).jpg</FANPATH>
+      <AKA>NULL</AKA>
+      <RELEASE>NULL</RELEASE>
+      <THUMBPATH>NULL</THUMBPATH>
+      <NAME>Nintendo Entertainment System (NES)</NAME>
+      <REMOTE_ID>7</REMOTE_ID>
+    </SYSTEM>
+  </SYSTEMS>
+</ROOT>
